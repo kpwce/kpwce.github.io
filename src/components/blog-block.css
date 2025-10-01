@@ -1,0 +1,19 @@
+.blog-block {
+    text-decoration: none;
+    margin:0;
+    font-weight: normal;
+}
+.blog-text:hover {
+    background-color: #dcdcdc;
+}
+
+.blog-line{
+    border: none;
+    border-top: 1px solid #000000;
+    height: 0px;
+    color: #000000;
+}
+
+.blog-title {
+    font-family: var(--font-sans);
+}

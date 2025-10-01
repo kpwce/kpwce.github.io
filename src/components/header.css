@@ -1,0 +1,7 @@
+header {
+      padding: var(--space-4) var(--size-gutter);
+      display: flex;
+      justify-content: space-evenly;
+      font-family: 'UnifrakturMaguntia', Georgia, Times, 'Times New Roman', serif;
+      font-size: xx-large;
+}
