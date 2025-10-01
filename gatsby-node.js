@@ -11,7 +11,8 @@ exports.onCreateNode = ({ node, actions, getNode }) => {
   const { createNodeField } = actions
   if (node.internal.type === `MarkdownRemark`) {
     const slug = createFilePath({ node, getNode, basePath: `src/content` })
-    createNodeField({node,
+    createNodeField({
+      node,
       name: `slug`,
       value: slug,
     })
@@ -60,6 +61,9 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
     createPage({
       path: node.fields.slug,
       component: blogPostTemplate,
+      context: {
+        slug: node.fields.slug,
+      },
     })
   })
 
