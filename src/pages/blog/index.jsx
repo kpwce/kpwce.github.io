@@ -20,6 +20,11 @@ const blogList = [
     description: "The concepts behind this site, from both historical and technical perspectives."
   },
   {
+    title: "Resources for learning data processing",
+    path: "/data-processing-systems",
+    description: "Collection of technologies for a career in data processing software."
+  },
+  {
     title: "Reflection on the college triple major",
     path: "/triple-major",
     description: "I get a lot of questions about my academic path in undergrad, so I've decided to write about it."
@@ -29,10 +34,15 @@ const blogList = [
     path: "/dibujos-de-tiza",
     description: "Los estudios matemáticos son obras de arte."
   },
-      {
+  {
     title: "Una carta de presentación escrita por Lázaro de Tormes",
-    path: "/carta-de-presentacion-lazaro",
+    path: "/lazarillo-de-tormes-carta",
     description: "Imaginamos qué escribirá Lázaro de Tormes en el siglo XVI."
+  },
+  {
+    title: "Interdisciplinary",
+    path: "/interdisciplinary-txtds",
+    description: "I discuss my thoughts on interdisciplinary work and the Textual and Digital Studies program."
   }
 ]
 
@@ -66,7 +76,6 @@ const BlogPage = ({
           ))}
         </ul>
 
-        <Link to="/" className="redirect">☞ Go back to the homepage</Link>
       </div>
 
       <div className="two-col-grid">
@@ -75,6 +84,7 @@ const BlogPage = ({
         ))}
       </div>
     </div>
+    <Link to="/" className="redirect">☞ Go back to the homepage</Link>
   </Layout>
 )
 

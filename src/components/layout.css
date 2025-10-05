@@ -142,6 +142,7 @@ p {
   margin: 0;
   padding: 0;
   margin-bottom: var(--space-4);
+  width: 100%;
 }
 
 ul,
@@ -197,10 +198,6 @@ p *:last-child {
 
 li>p {
   margin-bottom: calc(var(--space-4) / 2);
-}
-
-p {
-  max-width: 680px;
 }
 
 code {

@@ -17,7 +17,7 @@ Every couple of years, I build myself a new personal website with tools I've pic
 
 This site is built using Gatsby. It started off as the [starter boilerplate](https://www.gatsbyjs.com/starters/gatsbyjs/gatsby-starter-default/) but now bares little resemblance to the original source. It is hosted on Github Pages.
 
-Now what's Gatsby and why use it here? Gatsby is a React-based, open source [static site generator](https://en.wikipedia.org/wiki/Static_site_generator) (SSG). I chose it because of its similarity to React and its support for functionality required for this site, e.g., running a blog. It heavily relies on `graphql` for data retrieval and the React-based framework isn't as light as just HTML, but it was great to have a working site right off the bat. With a heavy amount of CSS styling and modular React components, I think I'm happy with the product.
+Now what's Gatsby and why use it here? Gatsby is a React-based, open source [static site generator](https://en.wikipedia.org/wiki/Static_site_generator) (SSG). I chose it because of its similarity to React and its support for functionality required for this site, e.g., running a blog. It heavily relies on [GraphQL](https://graphql.org/) for data retrieval and the React-based framework isn't as light as just HTML, but it was great to have a working site right off the bat. With a heavy amount of CSS styling and modular React components, I think I'm happy with the product.
 
 One awesome feature that Gatsby has is the render Markdown files as HTML, so I can insert some
 
@@ -35,13 +35,13 @@ $$\sum_{i = 1}^n i = \frac{n (n - 1)}{2}$$
 
 Markdown is a portable file format, and I'm planning to write most of my blog posts in `.md` files.
 
-In the future, I'd like to integrate a site-wide search feature and play around with in-text visual rending (e.g., `d3.js`). Discovery tools, interactive components and fun data essays to come!
+In the future, I'd like to integrate a site-wide search feature and play around with in-text visual rending in [D3](https://d3js.org/). Discovery tools, interactive components and fun data essays to come!
 
 ### The Newspaper
 
 Newspapers are complex cultural artifacts composed of recipes, poems, essays, opinions, advertisements, and of course, news. They garnered popularity in the 17th century and have since been a source of information for the public. The images within them provided veracity to the happenings in the world and their puzzles have become an American pasttime.[^2]
 
-Nowadays, a large handful of folks would claim that newspapers are dead as short-form content, mainstream televised media, and various forms of citizen journalism occupy many of the roles that newspapers once filled. While the form has experienced a decline in popularity in the 21st century, some publishers continue to print them and others have invested in a digital transformation to stay relevant. In 2022, the Pew Research Center reports that amid a decline in readership, newspapers have put more efforts than ever before into digital marketing.[^3] Their digital editions have a striking visual similarity to their printed counterparts.
+Nowadays, a large handful of folks would claim that newspapers are dead as short-form content, mainstream televised media, and various forms of citizen journalism occupy many of the roles that newspapers once filled. While the form has experienced a decline in popularity in the 21st century, some publishers continue to print them while others have invested in a digital transformation to stay relevant. In 2022, the Pew Research Center reports that amid a decline in readership, newspapers have put more efforts than ever before into digital marketing.[^3] Their digital editions have a striking visual similarity to their printed counterparts.
 
 [^2]: Deb Amlen. (2019, December). How the Crossword Became an American Pastime. https://www.smithsonianmag.com/arts-culture/crossword-became-american-pastime-180973558/
 

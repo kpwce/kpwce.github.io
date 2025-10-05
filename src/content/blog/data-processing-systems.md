@@ -10,9 +10,13 @@ For those looking to get started, I'm keeping an in-progress list of resources f
 
 ## Languages
 
-Basic level of SQL, and either Python or Java is sufficient.
+Basic level of **SQL**, and either **Python** or **Java** is sufficient.
 
 I found that my college computer science classes helped with proficiency in Java, but it took some industry work to start writing production-quality Python code. Every project can use a different DBMS, but knowing one RDBMS (e.g., MySQL, Microsoft SQL Server, Azure SQL Database) makes it easy to adapt to others. The most common streaming technologies to build data processing pipelines (e.g., Apache Flink, Apache Spark) use SQL-esque, declarative syntax.
+
+I would also recommend proficiency in **Excel** and **Google Sheets**, including their associated scripting languages, **Visual Basics for Applications** and **Google Apps Script**. A lot of data validation and cost projections produce a spreadsheet product. It's an incredibly useful tool for conveying information to leadership and more business-focused teams.
+
+Learning **command line**, **version control** software (e.g., git) and regular expressions for powerful find-and-replace operations removes a lot of internet searches and tedious copy-paste work. I learned these during my undergraduate computer science program.
 
 ## Books
 
@@ -32,4 +36,4 @@ There are technologies come up a lot in conversation, endless optimizations, and
 
 - [Spark](https://spark.apache.org/) for batch processing.
 
-- If possible, proficiency in Excel and/or Google Sheets and their associated scripting language (Visual Basics for Applications and AppScript) comes in handy for sanity checks.
+- [Pinterest](https://medium.com/@Pinterest_Engineering) Engineering blog on Medium

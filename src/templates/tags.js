@@ -17,11 +17,12 @@ const Tags = ({ pageContext, data }) => {
       <h1>{tagHeader}</h1>
       <ul>
         {edges.map(({ node }) => {
-          const { slug } = node.fields
+          const { slug } = node.frontmatter
           const { title } = node.frontmatter
+          const linkString = "/blog" + node.frontmatter.slug
           return (
             <li key={slug}>
-              <Link to={slug}>{title}</Link>
+              <Link to={linkString}>{title}</Link>
             </li>
           )
         })}
@@ -44,9 +45,7 @@ Tags.propTypes = {
           node: PropTypes.shape({
             frontmatter: PropTypes.shape({
               title: PropTypes.string.isRequired,
-            }),
-            fields: PropTypes.shape({
-              slug: PropTypes.string.isRequired,
+              slug: PropTypes.string.isRequired
             }),
           }),
         }).isRequired
@@ -66,11 +65,9 @@ export const pageQuery = graphql`
       totalCount
       edges {
         node {
-          fields {
-            slug
-          }
           frontmatter {
             title
+            slug
           }
         }
       }

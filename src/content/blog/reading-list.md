@@ -11,6 +11,7 @@ A list of books and collections I've been reading (mostly for fun).
 
 | Title | Author | Year Published |
 | :------- | :------ | ------- |
+| *Bless Me, Ultima* | Rudulfo Anaya | 1972 |
 | *In the Time of the Butterflies* | Julia Álvarez | 1994  |
 | *New Land: Southeast Asian Refugees Finding Home in Washington*   | Washington Secretary of State  | 2025   |
 

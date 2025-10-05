@@ -1,7 +1,7 @@
 ---
 title: "Carta de presentación"
 tags: ["Spanish"]
-slug: "/carta-de-presentacion-lazaro"
+slug: "/lazarillo-de-tormes-carta"
 ---
 
 > Este post es una extensión de una redacción que hice durante mis estudios en la Universidad de Washington.
