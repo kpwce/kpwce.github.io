@@ -47,7 +47,7 @@ Nowadays, a large handful of folks would claim that newspapers are dead as short
 
 [^3]: Pew Research Center. (2022). *Newspapers Fact Sheet* [Report]. https://www.pewresearch.org/journalism/fact-sheet/newspapers/
 
-Many newspaper publishers maintain a multi-column front page, and a distinct Fracktur font in their logos. These relics of the past are emblems of authenticity and reminders of their cultural value. The Washington Post and The New York Times have even introduced digital versions of crossword puzzles.
+Many newspaper publishers maintain a multi-column front page, and a distinct Fraktur font in their logos. These relics of the past are emblems of authenticity and reminders of their cultural value. The Washington Post and The New York Times have even introduced digital versions of crossword puzzles.
 
 ### A Website with Newspaper Vibes
 
