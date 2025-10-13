@@ -31,7 +31,7 @@ While not everyone agrees with those definitions and it can be hard to classify 
 
 A similar principle can be seen in the workforce. More and more companies are coming to value diversity in thought when hiring. Out of both academic interest and career necessity, schools have added interdisciplinary education tracks.
 
-As a student at the University of Washington, I got to learn about some of these interdisciplinary programs and at first I was skeptical about their utility. For instance, the undergraduate [Comparative History of Ideas](https://chid.washington.edu/) program lets students choose nearly every class they take in what seems to be a situation where you get what you put in with little standardization for program outcomes. Futhermore, taking an interdisciplinary major means students get less of each discipline in most cases. Take biochemistry requirements, which involve less required biology and chemistry courses than those traditional degrees, respectively. However, in this latter case, there is more standardization in what a biochemistry student will know - organic chemistry, human anatomy, etc. Depending on what a student wants to do, these interdisciplinary tracks can be great, and of course, interdisciplinary and multidisciplinary research happens frequently in a university.
+As a student at the University of Washington, I got to learn about some of these interdisciplinary programs and at first I was skeptical about their utility. For instance, the undergraduate [Comparative History of Ideas](https://chid.washington.edu/) program lets students choose nearly every class they take in what seems to be a situation where you get what you put in with little standardization for program outcomes. Futhermore, taking an interdisciplinary major means students get less of each discipline in most cases. Take biochemistry requirements, which involve less required biology and chemistry courses than those separate degrees, respectively. However, in this latter case, there is more standardization in what a biochemistry student will know - organic chemistry, human anatomy, etc. Depending on what a student wants to do, these interdisciplinary tracks can be great, and of course, interdisciplinary and multidisciplinary research happens frequently in a university.
 
 As a multidisciplinary student at the end of my third year, I had grown eager to join some interdisciplinary programs after constantly switching contexts between three disjoint departments and doing work[^4] that heavily valued one discipline.
 
@@ -54,8 +54,8 @@ Here are some highlights.
 - Hands-on digitization work with tools and frameworks that textual scholars use
 - Low-stakes capstone that allows students to expand on prior work in the context of textual and digital studies
 
-Some other observations.
+And some other observations.
 - Limited course options, as the department is small and was offering 1-2 courses per quarter that would count towards the certificate
 - As someone with coding background, the coding aspect wasn't interesting and catered towards beginners with little to no coding experience
 
-Personally, I enjoyed the program as it exposed me to problems that had never crossed my mind. What impact does optical character recognition (OCR) have in search and discovery? How does digitization impact reading experience? How do we trace and document the editions of a text? How does metadata get generated? If any of these questions sounded interesting, I would recommend taking a look at the program!
+Personally, I enjoyed the program as it exposed me to problems that had never crossed my mind. What impact does optical character recognition (OCR) have in search and discovery? How does digitization impact reading experience? How do we trace and document the editions of a text? How does metadata get generated? If any of these questions sound interesting, I would recommend taking a look at the program!

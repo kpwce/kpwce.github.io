@@ -19,7 +19,7 @@ This site is built using Gatsby. It started off as the [starter boilerplate](htt
 
 Now what's Gatsby and why use it here? Gatsby is a React-based, open source [static site generator](https://en.wikipedia.org/wiki/Static_site_generator) (SSG). I chose it because of its similarity to React and its support for functionality required for this site, e.g., running a blog. It heavily relies on [GraphQL](https://graphql.org/) for data retrieval and the React-based framework isn't as light as just HTML, but it was great to have a working site right off the bat. With a heavy amount of CSS styling and modular React components, I think I'm happy with the product.
 
-One awesome feature that Gatsby has is the render Markdown files as HTML, so I can insert some
+One awesome feature that Gatsby has is the ability to render Markdown files as HTML, so I can insert some
 
 ```python
 print("code")
@@ -33,7 +33,7 @@ or my favorite equations!
 
 $$\sum_{i = 1}^n i = \frac{n (n - 1)}{2}$$
 
-Markdown is a portable file format, and I'm planning to write most of my blog posts in `.md` files.
+Markdown is a portable file format, and I'm planning to write most of my blog posts in `.md` files. An extra bonus to using Markdown is being able to copy over the writing I do in [Obsidian](https://obsidian.md/).
 
 In the future, I'd like to integrate a site-wide search feature and play around with in-text visual rending in [D3](https://d3js.org/). Discovery tools, interactive components and fun data essays to come!
 
@@ -51,7 +51,7 @@ Many newspaper publishers maintain a multi-column front page, and a distinct Fra
 
 ### A Website with Newspaper Vibes
 
-Analogous to printed and digital newspapers, digital portfolios and blogs are inching their way to become the new résumé. From software engineers to best-selling authors, the personal website with search engine discoverability has become quite popular. It's one of the first tasks assigned to students taking an introductory technology class.
+Analogous to printed and digital newspapers, digital portfolios and blogs are inching their way to become the new résumé. From software engineers to best-selling authors, the personal website with search engine discoverability has become quite popular. It's even one of the first tasks assigned to students taking an introductory technology class.
 
 While it's common to format a portfolio site like a résumé, I intend for mine to be more than a sheet of paper on the internet. With a similar spirit and purpose, this site is styled as newspaper about myself. As a matter of front-end design, I also really like the visual blend of elements in a newspaper and think it looks cool.
 

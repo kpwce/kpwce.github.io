@@ -17,14 +17,12 @@ const socialLinks = [
   },
   {
     text: "LinkedIn",
-    url: "www.linkedin.com/in/alysam",
+    url: "https://www.linkedin.com/in/alysam",
   },
 ]
 
 const IndexPage = () => (
   <Layout>
-
-
     <div className="two-col-grid">
       <div className={styles.textCenter}>
         <h1>
@@ -35,7 +33,7 @@ const IndexPage = () => (
 
         <p>I have 2 Bachelor degrees from the University of Washington, specializing in computer science, mathematics, and Spanish. I also have a Computer Science and Engineering MS degree through the Allen School's BS/MS program. In graduate school, I was a part of the Textual and Digital Studies Graduate Certificate program.</p>
 
-        <p>My academic interests are at the intersection of humanities and computation. I study ways computation appears in fiction and enjoy building tools for libraries and archives.</p>
+        <p>My academic interests are at the intersection of humanities and computation. I study ways computation appears in fiction and enjoy building tools for archives.</p>
 
         <p>I like puzzles. My social username, <code>kpwce</code>, is a <a href="https://en.wikipedia.org/wiki/Vigen%C3%A8re_cipher">Viginère cipher</a> of <code>alysa</code> with the key <code>key</code>. You can sometimes find me down a rabbit hole in linguistics, specifically computational linguistics and second-language acquisition.</p>
 

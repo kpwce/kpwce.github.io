@@ -42,7 +42,7 @@ const ResearchPage = () => (
 
     <h1>Research</h1>
 
-    I'm interested in computation in cultural settings, specifically for knowledge discovery. It's really neat when Spanish appears, too.
+    I'm interested in computation in cultural heritage settings, specifically for preservation and knowledge discovery. My interest in Spanish literature sometimes overlaps.
 
     <h2>My work</h2>
 
